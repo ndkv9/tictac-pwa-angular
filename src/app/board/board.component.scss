@@ -1,0 +1,29 @@
+
+
+main {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 0px;
+}
+
+#player {
+    color: #21E298;
+}
+
+button {
+    margin-bottom: 15px;
+}
+
+
+#winner {
+    color: #21E298;
+}
+
+.symbol {
+    color: #ffd95f;
+}
+
+app-square {
+    border: 1px gray solid;
+    height: 200px;
+}
