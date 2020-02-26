@@ -1,6 +1,8 @@
 # TictacGame
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
+To access the game, use this url:
+https://tictac-game-42978.firebaseapp.com/
 
 ## Development server
 
